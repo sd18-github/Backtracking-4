@@ -10,14 +10,12 @@ For example, w=4, h=4 and n=3. An optimal grid placement sets any lot within two
 
 "0" indicates optimal building placement and in this case the maximal value of all shortest distances to the closest building for each cell is "2".
 
-
+```
 1 0 1 2
-
 2 1 2 1
-
 1 0 1 0
-
 2 1 2 1
+```
 
 ## Problem2: Word List Brace Expansion 
 https://leetcode.com/problems/brace-expansion/
